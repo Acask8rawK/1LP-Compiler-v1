@@ -18,7 +18,7 @@ Error Recovery dengan pendekatan Panic Mode (sinkronisasi token).
 Kelas: 4IA04 Nama Anggota:
 
 * Miskah Nurzakwan W (5042283)
-* Dio Adelioya Putra (50422434)
+* Dio Adeliya Putra (50422434)
 * Pasya Shafaa Aaqila (51422281)
 * Muhammad Alfian Rizki R (50422934)
 * Muhammad Muhsin Azzam (51422095)
