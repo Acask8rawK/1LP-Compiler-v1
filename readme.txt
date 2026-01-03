@@ -17,15 +17,11 @@ Error Recovery dengan pendekatan Panic Mode (sinkronisasi token).
 👥 Informasi Kelompok
 Kelas: 4IA04 Nama Anggota:
 
-Muhammad Muhsin Azzam (51422095)
-
-Pasya Shafaa Aaqila (51422781)
-
-Dio Adelioya Putra (50422434)
-
-Miskah Nurzakwan W (50922783)
-
-Muhammad Alfian Ricki R (50422734)
+* Miskah Nurzakwan W (5042283)
+* Dio Adelioya Putra (50422434)
+* Pasya Shafaa Aaqila (51422281)
+* Muhammad Alfian Rizki R (50422934)
+* Muhammad Muhsin Azzam (51422095)
 
 📂 Struktur Folder
 Plaintext
